@@ -1,5 +1,5 @@
 import credits.aleo;
-program aleoswap05.aleo;
+program handlerswapwmdao.aleo;
 
 
 record PrivateToken:
